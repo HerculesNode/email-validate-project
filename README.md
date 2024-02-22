@@ -1,6 +1,8 @@
-# hercules Node.js Project
+# hercules Email Validate Node.js Project
 
-A Node.js project written using Express. EJS was used as the view engine.
+express was used in the project. 
+The email address is verifying
+You need to run the project on the server with npm.
 
 # Installation
 
