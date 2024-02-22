@@ -1,8 +1,8 @@
 # hercules Email Validate Node.js Project
 
-express was used in the project. 
-The email address is verifying
-You need to run the project on the server with npm.
+- express was used in the project. 
+- The email address is verifying
+- You need to run the project on the server with npm.
 
 # Installation
 
