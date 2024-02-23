@@ -11,8 +11,19 @@
   "type": "git",
   "url": "https://github.com/HerculesNode/email-validate-project.git"
    },
+    "keywords": [
+    "email",
+    "regex",
+    "validate",
+    "permissive",
+    "international"
+  ],
   "author": "Hercules",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HerculesNode/email-validate-project/issues"
+  },
+  "homepage": "https://github.com/HerculesNode/email-validate-project#readme"
   "dependencies": {
     "express":"latest",
     "ejs":"latest"
