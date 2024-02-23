@@ -18,14 +18,14 @@
     "permissive",
     "international"
   ],
+  "dependencies": {
+    "express":"latest",
+    "ejs":"latest"
+  },
   "author": "Hercules",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/HerculesNode/email-validate-project/issues"
   },
   "homepage": "https://github.com/HerculesNode/email-validate-project#readme"
-  "dependencies": {
-    "express":"latest",
-    "ejs":"latest"
-  }
 }
