@@ -1,20 +1,25 @@
 {
   "name": "email-validate-project",
-  "version": "1.0.1",
-  "description": "hercules Node.js Email Validate",
-  "main": "app.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "",
   "scripts": {
-    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/HerculesNode/email-validate-project.git"
-   },
-  "author": "Hercules",
-  "license": "ISC",
+    "type": "git",
+    "url": "https://github.com/HerculesNode/email-validate-project.git"
+  },
+  "keywords": [
+    "email input",
+    "email validate",
+    "validate"
+  ],
+  "author": "",
+  "license": "MIT",
   "dependencies": {
-    "express":"latest",
-    "ejs":"latest"
+    "email-regex": "^5.0.0",
+    "email-regex-safe": "^4.0.0",
+    "validator": "^13.11.0"
   }
 }
